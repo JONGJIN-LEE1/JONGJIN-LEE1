@@ -63,20 +63,3 @@
 
 ---
 
-<div align="center">
-  
-  ### 💡 Random Dev Quote
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-  
-  ### 😄 Dev Joke
-  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical&hideBorder)
-  
-</div>
-
----
-
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=JONGJIN-LEE1&color=F85D7F&style=for-the-badge)
-  
-</div>
