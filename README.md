@@ -5,19 +5,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-  
-  ![JONGJIN-LEE1's GitHub stats](https://github-readme-stats.vercel.app/api?username=JONGJIN-LEE1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JONGJIN-LEE1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JONGJIN-LEE1&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F)
-  
-</div>
-
----
 
 ## 🛠️ Tech Stack
 
